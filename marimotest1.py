@@ -1,6 +1,6 @@
 import marimo
 
-__generated_with = "0.23.3"
+__generated_with = "0.23.4"
 app = marimo.App(width="medium")
 
 
@@ -27,7 +27,7 @@ def _(mo, slider):
 @app.cell(hide_code=True)
 def _(mo):
     mo.md(r"""
-    version 2
+    version 3
     """)
     return
 

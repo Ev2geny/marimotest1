@@ -25,7 +25,7 @@
         {
           "type": "data",
           "data": {
-            "text/html": "<marimo-ui-element object-id='MJUe-0' random-id='8ccd665b-0aee-6efc-2b3d-a34a58bea240'><marimo-slider data-initial-value='1' data-label='null' data-start='1' data-stop='10' data-step='1' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='false' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element>"
+            "text/html": "<marimo-ui-element object-id='MJUe-0' random-id='bc0e0067-ffa9-c3e6-d85c-a136cac7ef96'><marimo-slider data-initial-value='1' data-label='null' data-start='1' data-stop='10' data-step='1' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='false' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element>"
           }
         }
       ],
@@ -38,20 +38,20 @@
         {
           "type": "data",
           "data": {
-            "text/html": "<marimo-ui-element object-id='vblA-0' random-id='c1b52572-0c6b-718c-6550-71a9ddf4e5bc'><marimo-text data-initial-value='&quot;hi &quot;' data-label='null' data-placeholder='&quot;&quot;' data-kind='&quot;text&quot;' data-full-width='false' data-disabled='false' data-debounce='true'></marimo-text></marimo-ui-element>"
+            "text/html": "<marimo-ui-element object-id='vblA-0' random-id='50b180be-3082-64f5-0f85-674161162967'><marimo-text data-initial-value='&quot;hi &quot;' data-label='null' data-placeholder='&quot;&quot;' data-kind='&quot;text&quot;' data-full-width='false' data-disabled='false' data-debounce='true'></marimo-text></marimo-ui-element>"
           }
         }
       ],
       "console": []
     },
     {
-      "id": "ZBVO",
-      "code_hash": "0d3a4749eea74254727b7d11bc112ee2",
+      "id": "bkHC",
+      "code_hash": "90e7f917cc092f53f0da5b068f312351",
       "outputs": [
         {
           "type": "data",
           "data": {
-            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">version 1</span></span>"
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">version </span></span>"
           }
         }
       ],
