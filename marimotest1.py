@@ -1,7 +1,16 @@
 import marimo
 
-__generated_with = "0.23.4"
-app = marimo.App(width="medium")
+__generated_with = "0.23.6"
+app = marimo.App(width="medium", css_file="./custom.css")
+
+
+@app.cell(hide_code=True)
+def _(mo):
+    mo.md(r"""
+    # **Heading 1**
+    ## Heading 2
+    """)
+    return
 
 
 @app.cell
